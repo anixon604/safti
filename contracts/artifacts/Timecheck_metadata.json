@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getCurrentContractTimeStamp",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Timecheck.sol": "Timecheck"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Timecheck.sol": {
+			"keccak256": "0x2baf7495bf140c06840ca3ab9b21178a27cda129a025c75f1915a498036d5282",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0896cf091e483e758c6d2f8bebf0e03d5d000378e130352082208d21bb1cc415",
+				"dweb:/ipfs/QmVXkr9iySHYEwCYLt1ZLnnmmorDvcCeuGsi5jcETSEXwc"
+			]
+		}
+	},
+	"version": 1
+}
